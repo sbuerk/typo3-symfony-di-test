@@ -2,6 +2,7 @@
 	"name": "sbuerk/typo3-symfony-di-test",
 	"description": "Provides proof-of-concept implementation for Symfony DI techniques as TYPO3 extension",
 	"type": "typo3-cms-extension",
+	"license": "GPL-2.0-or-later",
 	"autoload": {
 		"psr-4": {
 			"SBUERK\\DiTests\\": "Classes/"
